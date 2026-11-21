@@ -1,6 +1,6 @@
 # apple-app-review-skill
 
-> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+> Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
 
 **Avoid an App Store rejection.** [GUIDE.md](GUIDE.md) is the full playbook: how App Review works, a map of the guidelines that cause most rejections (2.1, 2.3, 3.1, 4.2, 4.3, 4.8, 5.1) with fixes, Apple's 9 questions after a 4.3 spam rejection and how to answer them, the 2.1 new-account packet, how to avoid a 3.2(f) account termination, and a pre-submit checklist.
 
@@ -34,4 +34,6 @@ In your app's repo, ask Claude Code:
 
 It drafts. You check every claim before pasting it into App Store Connect.
 
-Made by [An Nayal](https://annayal.com). Sources: Phillip Shoemaker's [Substack](https://phillipshoemaker.substack.com), Rasty Turek's [public reply](https://x.com/synopsi/status/2122380692747411566), Apple's [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/).
+Sources: Phillip Shoemaker's [Substack](https://phillipshoemaker.substack.com), Rasty Turek's [public reply](https://x.com/synopsi/status/2122380692747411566), Apple's [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/).
+
+Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com)
